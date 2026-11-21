@@ -3,9 +3,9 @@
 **A Hierarchical Engineered System for Plasma Visualization, Bio-Stimulation, Environmental Remediation & Advanced Argon/MHD Applications**
 
 **Version 2.2 | Real-World Deliverable for Bathurst, New Brunswick**
-**Date:** 19 April 2026
-**Author:** Kevin Kull — KullAILabs
-**GitHub Repo:** https://github.com/Kuonirad/Plasma-Dream-Web-Novel-Prototyping.git
+**Date:** 19 November 2026
+**Author:** Ole Lehmann — Max Marchione
+**GitHub Repo:** https://github.com/ole-lehmann/Dreamify
 
 ---
 
