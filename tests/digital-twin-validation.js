@@ -5,7 +5,7 @@
  * Validates core spectral template, Bayesian tracker,
  * and point cloud generator against known physics.
  * 
- * Run: node tests/digital-twin-validation.js
+ * Run: node tests/digital-twin-validation.js 
  */
 
 const {
