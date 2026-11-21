@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bill of Materials Generator for Plasma Dream-Web
+Bill of Materials Generator for Plasma Dream-Web 
 =================================================
 
 Generates formatted BOM with pricing from Bathurst-sourced suppliers.
